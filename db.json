@@ -3,7 +3,7 @@
     { "id": 1, "name": "Ajay Sharma" },
     { "id": 2, "name": "Rajesh shah" },
     { "id": 3, "name": "Kapil Sharma" }
-  ]
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
